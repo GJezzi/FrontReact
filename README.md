@@ -1,6 +1,3 @@
 # ReactFront
 
-Aplicativo que Lista Repositórios Git.
-
-- Criado Usando ReactJS 
-- Feito durante curso Bootcamp da Rocketseat
+- Aplicativo desenvolvido em ReactJS, feito durante Bootcamp Omnistack da Rocketseat
